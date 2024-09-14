@@ -68,3 +68,6 @@ Wow, that was amazing...
 [Stack Abuse](http://stackabuse.com "Stack Abuse Title")
 
 ---
+
+
+In JavaScript, use `console.log()` to print the console.
