@@ -35,6 +35,7 @@ The resulting Markdown you write is then fed in to a converter that replaces the
 Checkout this code:
 
 ```C
+
 def fibonacci(number):
         if number <= 1:
             return number
