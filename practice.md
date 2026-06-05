@@ -90,12 +90,24 @@ Ordered List.
 
 ## Ordered List
 
+<<<<<<< HEAD
 1. **Accenture**
 1. **HPE**
 1. **HCL**
 1. **Infosys**
 
 
+=======
+1. Accenture
+1. HPE
+1. HCL
+1. Infosys
+
+
+## Cloud Computing Images 
+
+![AWS Cloud](images/AWS-Cloud-Image.jpg)
+>>>>>>> 686dfdaef068a4c066785bc651f860b6b639bf92
 
 [Google]: http://www.google.com
 [1]: http://www.eclerx.com
