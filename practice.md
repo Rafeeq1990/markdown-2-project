@@ -62,7 +62,7 @@ Ordered List.
 ## Blockquotes in MarkDown.
 
 > Where does it come from?
-> Contrary to __popular__ belief, Lorem Ipsum is not simply random text. It has roots in a _piece_ of classical Latin literature from 45 BC.
+> Contrary to __popular__ belief, Lorem Ipsum is not simply ***random*** text. It has roots in a _piece_ of classical Latin literature from 45 BC.
 > **Richard McClintock**, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, 
 
 > There is another BlockQuotes in MarkDown.
@@ -76,6 +76,32 @@ Ordered List.
 
 ![AWS Cloud](images/AWS-Cloud-Image.jpg)
 
+# Reference Style Link
+
+[Search Engine][Google]
+[eclerx][1]
+
+## More contents
+
+* Delhi
+* Mumbai
+* Gujarat
+* Hyderabad
+
+## Ordered List
+
+1. Accenture
+1. HPE
+1. HCL
+1. Infosys
+
+
+## Cloud Computing Images 
+
+![AWS Cloud](images/AWS-Cloud-Image.jpg)
+
+[Google]: http://www.google.com
+[1]: http://www.eclerx.com
 
 
 
