@@ -19,16 +19,16 @@ Unordered List
 * Tea
 * coffee
 * Milk
-   
+
 Ordered List.
 
 1. Banana
 2. Grapes
 3. Oranges
 
-    
 
- ## Links 
+
+ ## Links
 
 + [HPE](http://www.hpe.com "HPE")
 
@@ -42,9 +42,39 @@ Ordered List.
 
 2. ![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg "Markdown")
 
+### For Code Block
+
+-  `console.log ("Welcome!");`
+
+## Code Block.
+
+``` html
+<html>
+<head>
+<title>My First Page<title>
+</head>
+<body>
+<p>This is a first demo paragraph for the file.
+</body>   
+</html>
+```
+
+## Blockquotes in MarkDown.
+
+> Where does it come from?
+> Contrary to __popular__ belief, Lorem Ipsum is not simply random text. It has roots in a _piece_ of classical Latin literature from 45 BC.
+> **Richard McClintock**, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, 
+
+> There is another BlockQuotes in MarkDown.
 
 
+## Dummy Links
 
+[eclerx](http://www.eclerx.com "eclerx")
+
+## Cloud Computing Images 
+
+![AWS Cloud](images/AWS-Cloud-Image.jpg)
 
 
 
