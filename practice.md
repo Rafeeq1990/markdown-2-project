@@ -95,7 +95,9 @@ Ordered List.
 1. **HCL**
 1. **Infosys**
 
+# HPE Enterprises
 
+**HPE** Software company for builting the Software for the corporates it is an ***american*** National Company for builting Large _Enterprise_ Software registered under American Inc.
 
 [Google]: http://www.google.com
 [1]: http://www.eclerx.com
