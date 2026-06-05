@@ -96,17 +96,9 @@ Ordered List.
 1. Infosys
 
 
+## Cloud Computing Images 
 
-
-
-
-
-
-
-
-
-
-
+![AWS Cloud](images/AWS-Cloud-Image.jpg)
 
 [Google]: http://www.google.com
 [1]: http://www.eclerx.com
