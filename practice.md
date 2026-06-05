@@ -19,19 +19,14 @@ Unordered List
 * Tea
 * coffee
 * Milk
-   1. Boost
-   2. Capaccuino
-   3. Black Tea
-
+   
 Ordered List.
 
 1. Banana
 2. Grapes
 3. Oranges
 
-    - Banana provides Nutrients to the Body.
-    - Grapes provides protien to the Body.
-    - Oranges provides Glucose to the Body.
+    
 
  ## Links 
 
