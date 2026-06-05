@@ -83,28 +83,17 @@ Ordered List.
 
 ## More contents
 
-* Delhi
-* Mumbai
-* Gujarat
-* Hyderabad
+* *Delhi*
+* *Mumbai*
+* *Gujarat*
+* _Hyderabad_
 
 ## Ordered List
 
-1. Accenture
-1. HPE
-1. HCL
-1. Infosys
-
-
-
-
-
-
-
-
-
-
-
+1. **Accenture**
+1. **HPE**
+1. **HCL**
+1. **Infosys**
 
 
 
