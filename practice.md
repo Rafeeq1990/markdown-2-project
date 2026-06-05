@@ -90,24 +90,18 @@ Ordered List.
 
 ## Ordered List
 
-<<<<<<< HEAD
 1. **Accenture**
 1. **HPE**
 1. **HCL**
 1. **Infosys**
 
-
-=======
-1. Accenture
-1. HPE
-1. HCL
-1. Infosys
-
-
 ## Cloud Computing Images 
-
 ![AWS Cloud](images/AWS-Cloud-Image.jpg)
->>>>>>> 686dfdaef068a4c066785bc651f860b6b639bf92
+
+# HPE Enterprises
+
+**HPE** Software company for builting the Software for the corporates it is an ***american*** National Company for builting Large _Enterprise_ Software registered under American Inc.
+
 
 [Google]: http://www.google.com
 [1]: http://www.eclerx.com
