@@ -54,7 +54,7 @@ Ordered List.
 <title>My First Page<title>
 </head>
 <body>
-<p>This is a first demo paragraph for the file.
+<p>This is a first demo paragraph for the file.</p>
 </body>   
 </html>
 ```
